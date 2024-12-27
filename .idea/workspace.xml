@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc7cbc0-0484-4b3f-a2d5-b5e77323ab4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/whois_scanner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="3bc7cbc0-0484-4b3f-a2d5-b5e77323ab4c" name="Changes" comment="port_scanner">
+      <change beforePath="$PROJECT_DIR$/dist/main.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "bs64sha256"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/bs64sha256/port_scanner.git",
+    "accountId": "c62dbf2d-346d-4966-bfe0-c8c9f3d8e098"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -77,6 +83,35 @@
       <option name="presentableId" value="Default" />
       <updated>1735318735051</updated>
     </task>
+    <task id="LOCAL-00001" summary="port_scanner">
+      <option name="closed" value="true" />
+      <created>1735323842537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735323842537</updated>
+    </task>
+    <task id="LOCAL-00002" summary="port_scanner">
+      <option name="closed" value="true" />
+      <created>1735323864908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735323864908</updated>
+    </task>
+    <task id="LOCAL-00003" summary="port_scanner">
+      <option name="closed" value="true" />
+      <created>1735324075435</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735324075435</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="port_scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="port_scanner" />
   </component>
 </project>
