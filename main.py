@@ -3,7 +3,6 @@ from tkinter import ttk
 import tkinter as tk
 import socket
 import threading
-
 def scan_port(ip, port, results):
     try:
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
